@@ -1,10 +1,10 @@
-# Zyxel-Matrix for WSR30 (Zyxel Multy U AC2100)
+# Openwrt for WSR30 (Zyxel Multy U AC2100)
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/yourusername/zyxel-matrix-wsr30)](https://github.com/majad00/zyxel-matrix/releases/tag/v4.0.0)
 [![Downloads](https://img.shields.io/github/downloads/yourusername/zyxel-matrix-wsr30/total)](https://github.com/majad00/wsr30-openwrt/releases/download/v4.0.0/Zyxel-Matrix-WSR30-v4.1.zip)
 
-A custom OpenWrt-based operating system for the Zyxel Multy U AC2100 Tri-band WiFi Mesh router (WSR30).
+Openwrt for useless paper weight otherwise known as the Zexyl Multy U AC2100, WSR30 router. Convert these paper weight to usefull APs
 
 ## ✨ Features
 
