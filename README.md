@@ -6,7 +6,7 @@
 
 Openwrt for useless paper weight otherwise known as the Zexyl Multy U AC2100, WSR30 router. Convert these paper weight to usefull APs
 
-## ✨ Features
+##  Features
 
 - **Easy Installation** - No UART or disassembly required! Install over LAN
 - **Dual Mode Operation** - AP Mode (default) and Bridge/Repeater Mode
@@ -18,9 +18,9 @@ Openwrt for useless paper weight otherwise known as the Zexyl Multy U AC2100, WS
 - **pre compiled** - cross-compiled binary ready to install
   
 
-## 📥 Quick Download
+##  Quick Download
 
-👉 **[Download Latest Release](https://github.com/majad00/wsr30-openwrt/releases/download/v4.0.0/Zyxel-Matrix-WSR30-v4.1.zip)**
+ **[Download Latest Release](https://github.com/majad00/wsr30-openwrt/releases/download/v4.0.0/Zyxel-Matrix-WSR30-v4.1.zip)**
 
 The download includes:
 - `Zyxel-Matrix-Loader.exe` - Windows / Linux flashing tool
@@ -28,7 +28,7 @@ The download includes:
 - `CHANGELOG.txt` - Version history
 - `docs` - for detail documentations and installation
   
-## 🚀 Flashing in 30 Seconds
+##  Flashing in 30 Seconds
 
 1. **Connect** Ethernet cable from PC to router
 2. **Set IP** on PC to `192.168.1.10`
@@ -38,21 +38,21 @@ The download includes:
 6. **Connect WiFi**: `Zyxel_Matrix_24` / `12345678`
 7. **Configure**: http://192.168.2.1 (root/1234)
 
-> ⚠️ **IMPORTANT**: Change default passwords immediately after first boot!
+>  **IMPORTANT**: Change default passwords immediately after first boot!
 
-## 📋 Detailed Documentation
+##  Detailed Documentation
 
 - [Building from Source](docs/build_guide.md)
 - [Changelog](CHANGELOG.txt)
 
-## 🔧 Default Settings
+##  Default Settings
 
 | Mode | IP Address | WiFi SSID | WiFi Password | Login |
 |------|------------|-----------|---------------|-------|
 | **AP Mode** | 192.168.2.1 | Zyxel_Matrix_24 / Zyxel_Matrix_5G | 12345678 | root/1234 |
 | **Repeater Mode** | 192.168.1.5 | Same SSID (extends existing network) | 12345678| root/1234 |
 
-## 🛠️ Development
+##  Development
 
 This project include busybox based on OpenWrt. To build from source:
 See Source, for installing precompiled firmware see Release, for firmware loader see Windows or Linux
